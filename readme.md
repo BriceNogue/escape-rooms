@@ -1,5 +1,6 @@
 # TP Spring Core – IoC & DI
-Nom: Nogue Wafo Brice.
+# Nom: Nogue Wafo Brice.
+
 Exercice 5 : Escape Rooms
 
 L’objectif est de mettre en application les concepts d’injection de dépendance et d’inversion de contrôle avec Spring.
