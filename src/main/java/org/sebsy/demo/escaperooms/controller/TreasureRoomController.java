@@ -3,9 +3,10 @@ package org.sebsy.demo.escaperooms.controller;
 import org.sebsy.demo.escaperooms.bll.TreasureService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Profile;
+import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
 
-@Controller
+@Component
 @Profile("treasure")
 public class TreasureRoomController {
 
